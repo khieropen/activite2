@@ -1,0 +1,3 @@
+bonjour; 
+
+je me présente je suis le fichier 2 je peux contenir des script et pas uniquement de texte le fichier1 aussi on fait juste ici de sorte bien maitriser les commande git.:x
